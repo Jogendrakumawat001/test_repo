@@ -20,3 +20,4 @@ def extract_number(num):
 
 nums = list(map(int, input().split()))
 print(extract_number(nums))
+#sfsdgfdaf
